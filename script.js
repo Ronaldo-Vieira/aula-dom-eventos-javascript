@@ -1,0 +1,1 @@
+var elemento = document.getElementById("tituloMusica").innerHTML = "O cravo e a rosa";
